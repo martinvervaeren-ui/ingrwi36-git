@@ -2,6 +2,11 @@ header {
   background-color: blue;
 }
 
+footer {
+  background-color: magenta;
+  height: 100px;
+}
+
 body {
   background: silver;
 }
